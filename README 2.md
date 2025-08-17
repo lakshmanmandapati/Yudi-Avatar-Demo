@@ -1,4 +1,4 @@
-# Yudi Avatar Backend (FastAPI, No-Billing Stack)
+# Yudi Avatar Backend
 
 End-to-end backend for multilingual voice ordering:
 - **STT**: Local Whisper (no cloud billing)
